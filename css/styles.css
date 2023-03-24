@@ -1,102 +1,100 @@
-*{
-    margin:0;
-    border: 0px;
-    padding: 0px;
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
 }
 
 h1 {
-    font-size: 2.5rem;
+  font-size: 2.5rem;
 }
 
 section {
-    margin-left: 20px;
-    marginf-left: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
+
 .container-1 {
-    display:flex;
-    margin-left: 20px;
-    margin-bottom: 20px;
-    margin-top: 15px;
-    /* width: 90%; */
+  display: flex;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 15px;
 }
 
 .container-2 {
-    font-family: Poppins, Arial, sans-serif;
-    margin-left: 20px;
-    margin-right: 20px;
-    display:flex;
-    /* width: 90%; */
+  font-family: Poppins, Arial, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
 }
 
 .container-3 {
-    margin-left: 20px;
-    display:flex;
-    /* width: 90%; */
+  margin-left: 20px;
+  display: flex;
 }
 
 .headline {
-    margin: 20px, 0, 20px, 0;
-    font-family: Poppins, Arial, sans-serif;
-    color: #172B4D;
-    font-weight: 700;
-    font-size: 1.5rem;
-    background-image: url(/images/headline-shapes-mobile.png);
+  margin: 20px, 0, 20px, 0;
+  font-family: Poppins, Arial, sans-serif;
+  color: #172b4d;
+  font-weight: 700;
+  font-size: 1.5rem;
+  background-image: url(/images/headline-shapes-mobile.png);
 }
 
 .desc {
-    margin-top: 20px;
-    font-weight: 400;
-    background-color: white;
+  margin-top: 20px;
+  font-weight: 400;
+  background-color: white;
 }
 
 .connect {
-    margin-top: 20px;
-    color: #7F8CFF;
+  margin-top: 20px;
+  color: #7f8cff;
 }
 
-.conn, wire, batt {
-    padding-left: 15px;
-    padding-right: 15px;
+.conn.wire.batt {
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
-.linkedin, m, github, sign {
-    padding-left: 15px;
-    padding-right: 15px;
+.linkedin.m.github.sign {
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
-.li { 
-    width:20px; 
+.li {
+  width: 20px;
 }
 
 .clock-im {
-    font-family: Poppins, Arial, sans-serif;
-    color: black;
+  font-family: Poppins, Arial, sans-serif;
+  color: black;
 }
 
 .conn-im {
-    width: 18px;
+  width: 18px;
 }
 
 .wire-im {
-    width:18px;
+  width: 18px;
 }
 
 .batt-im {
-    width:30px;
+  width: 30px;
 }
 
 .menu-im {
-    width:26px;
+  width: 26px;
 }
 
 .mylogo-im {
-    width:120px;
+  width: 120px;
 }
 
 .space1 {
-    width: 80%;
+  width: 80%;
 }
 
 .space2 {
-    width: 75%;
+  width: 75%;
 }
